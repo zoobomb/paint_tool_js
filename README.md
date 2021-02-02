@@ -1,2 +1,3 @@
-# paintjs
-Making paint board with JS
+# Paint Tool 
+
+Making paint tool with JS
